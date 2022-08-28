@@ -1,3 +1,4 @@
+![icon_smallest](https://user-images.githubusercontent.com/95288041/187092743-9dc6befe-a8e2-4648-a958-8463dc61b824.png)
 # UniColor
 A platform-independent color system that supports Json Serialization
 ## How to use
