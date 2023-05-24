@@ -1,7 +1,7 @@
 # UniColor
 A platform-independent color system that supports Json Serialization
 
-> 🟡 **Project status**: Maintenance mode<sup>[[?]](https://github.com/BlyZeYT/.github/blob/master/project-status.md)</sup>
+> 🔴 **Project status**: Discontinued<sup>[[?]](https://github.com/BlyZeYT/.github/blob/master/project-status.md)</sup>
 
 ## How to use
 ### Ways to initialize a new UniColor instance
